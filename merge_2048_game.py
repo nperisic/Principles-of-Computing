@@ -27,10 +27,3 @@ def merge(line):
         l_no += 1
     return sort
 
-## test
-##print merge([2])
-##print merge([2,0,2,2])
-##print merge([2,8,2,2])
-##print merge([2,8,2,2])
-##print merge([16,8,2,2])
-##print merge([16,8,32,8,8,2,4,4,8])
